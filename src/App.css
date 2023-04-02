@@ -1,0 +1,10 @@
+.App {
+  width: 1440px;
+  height: 1447px;
+
+}
+@media (max-width:360px){
+  .App{
+    width: 360px;
+  }
+  }
